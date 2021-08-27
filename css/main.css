@@ -1,0 +1,87 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    }
+    ul {
+       padding: 0px!important; 
+    }
+    .menu-principal {
+    width: 100%;
+    background-color: #070707;
+    height: 150px;
+    }
+    main, .content {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+    }
+    .logo {
+     float: right;
+     padding: 0;
+     width: 20%;
+     height:200px;
+     position: absolute
+   
+     
+    }
+
+    .titulo-principal{
+      float: left;
+      top: 65px;
+      left: 370px;
+     width: 50%;
+     height:200px;
+     position: absolute
+     
+    }
+    .redes-sociais ul li {
+    margin-left: 20px;
+    display: inline-block;
+    list-style: none;
+
+    }
+    .redes-sociais {
+    position: absolute;
+    width: 25%;
+    float: right;
+    left: 780px;
+    top:0px ;
+    }
+
+    .header-2  {
+   background-color: #272626;
+   height: 100px;
+   width: 100%;
+   border-bottom: 3px solid #979595 ;
+   top:150;
+   position:absolute
+    }
+
+    .menu{
+      
+      position:absolute;
+      top:140px;
+      color: red;
+      font-size: 30px;
+
+    }
+    .menu ul li {
+
+      display: inline-block;
+      padding: 30px;
+      font-size 100px;
+    }
+
+    .playeryoutube{
+
+      position: absolute;
+      top: 300px;
+    }
+
+
+   
+    
+
+
+
